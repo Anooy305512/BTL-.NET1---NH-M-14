@@ -1,0 +1,42 @@
+﻿<Window x:Class="Quản_lý_tạp_hóa.Doanhthu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Doanh Thu" Height="450" Width="800">
+    <Grid>
+        <!-- Chọn ngày xem doanh thu -->
+        <StackPanel>
+            <!-- Các phần khác trong giao diện -->
+
+            <!-- Hiển thị doanh thu theo ngày -->
+            <TextBlock Text="Doanh thu theo ngày:" FontSize="16" FontWeight="Bold" Margin="0,20,0,0" Height="24" Width="793"/>
+            <DatePicker x:Name="SelectedDatePicker" />
+            <TextBlock x:Name="DailyRevenueTextBlock" FontSize="14" />
+            <TextBlock Text="Chọn tháng để xem doanh thu:" FontSize="16" FontWeight="Bold" Margin="10, 20, 0, 0"/>
+            <!-- DatePicker để chọn tháng (với ngày mặc định là 1) -->
+            <DatePicker x:Name="SelectedMonthPicker" DisplayDateStart="01/01/2000" DisplayDateEnd="12/31/2099" />
+
+
+            <DataGrid x:Name="RevenueDataGrid" AutoGenerateColumns="False" Width="Auto" Height="Auto">
+                <DataGrid.Columns>
+                    <!-- Cột Tên Sản Phẩm -->
+                    <DataGridTextColumn Header="Sản phẩm" Binding="{Binding ProductName}" Width="*"/>
+
+                    <!-- Cột Tổng Số Lượng Bán -->
+                    <DataGridTextColumn Header="Tổng số lượng bán" Binding="{Binding TotalQuantity}" Width="*"/>
+
+                    <!-- Cột Doanh Thu -->
+                    <DataGridTextColumn Header="Doanh thu" Binding="{Binding TotalRevenue}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Tổng doanh thu -->
+            <TextBlock x:Name="TotalRevenueTextBlock" FontSize="14" />
+        </StackPanel>
+
+        <!-- Nút để tải dữ liệu doanh thu -->
+        <Button Content="Xem doanh thu" Click="ViewRevenue_Click" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="626,298,0,0"/>
+        <!-- Nút để tải dữ liệu doanh thu -->
+        <!-- Nút để tải dữ liệu doanh thu -->
+
+    </Grid>
+</Window>
