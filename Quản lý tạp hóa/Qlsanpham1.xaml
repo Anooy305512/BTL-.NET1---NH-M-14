@@ -1,0 +1,40 @@
+﻿<Page x:Class="Quản_lý_tạp_hóa.Qlsanpham1"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Quản_lý_tạp_hóa"
+    mc:Ignorable="d" 
+    >
+    <Grid>
+
+        <local:MenuControl1 VerticalAlignment="Top" Margin="0,20,0,0"/>
+        <TextBox Name="SearchTextBox" Width="205" Height="25" Margin="30,83,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <Button Name="SearchButton" Content="Tìm kiếm" Width="101" Height="25" Margin="240,83,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="SearchButton_Click"/>
+        <!-- Các TextBox và Button -->
+        <Label Content="Tên sản phẩm:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,105,0,0" RenderTransformOrigin="0.485,0.216"/>
+        <TextBox Name="ProductNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="141,113,0,0"/>
+
+        <!-- Giá -->
+        <Label Content="Giá:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="48,131,0,0" RenderTransformOrigin="0.886,-0.384"/>
+        <TextBox Name="UnitPriceTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="140,136,0,0"/>
+
+        <!-- Số lượng trong kho -->
+        <Label Content="Số lượng trong kho:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,154,0,0" RenderTransformOrigin="0.475,0.213"/>
+        <TextBox Name="QuantityInStockTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="141,158,0,0"/>
+        <Label Content="Mã vạch:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,182,0,0"/>
+        <TextBox Name="MavachTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="141,181,0,0"/>
+
+        <!-- Mã vạch -->
+        <Label Content="Mã nhà cung ứng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,204,0,0"/>
+        <TextBox Name="SupplierIDTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="141,208,0,0"/>
+
+        <Button x:Name="AddButton" Content="Thêm sản phẩm"  Width="100" Height="25" Margin="365,83,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="AddButton_Click"/>
+        <Button x:Name="UpdateButton" Content="Cập nhật sản phẩm"  Width="100" Height="30" Margin="365,158,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="UpdateButton_Click"/>
+        <Button x:Name="DeleteButton" Content="Xóa" Width="100" Height="26" Margin="365,118,0,0" Click="DeleteButton_Click" RenderTransformOrigin="0.548,2.223" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button x:Name="tkkhoButton" Content="Sản phẩm sắp hết" Width="100" Height="26" Margin="365,204,0,0" Click="tkkhoButton_Click" RenderTransformOrigin="0.548,2.223" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <!-- DataGrid để hiển thị danh sách sản phẩm -->
+        <DataGrid Name="ProductsDataGrid" VerticalAlignment="Top" Height="200" Margin="30,252,29,0" AutoGenerateColumns="True" RenderTransformOrigin="0.624,-0.086" SelectionChanged="ProductsDataGrid_SelectionChanged_1" />
+    </Grid>
+</Page>

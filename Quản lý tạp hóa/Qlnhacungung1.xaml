@@ -1,0 +1,36 @@
+﻿<Page x:Class="Quản_lý_tạp_hóa.Qlnhacungung1"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Quản_lý_tạp_hóa"
+    mc:Ignorable="d"
+    >
+    <Grid>
+        <local:MenuControl1 VerticalAlignment="Top" Margin="0,20,0,0"/>
+        <TextBox Name="SearchSupplierTextBox" Width="200" Height="30" Margin="10,76,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <Button Name="SearchSupplierButton" Content="Tìm kiếm" Width="100" Height="30" Margin="220,76,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="SearchSupplierButton_Click"/>
+
+        <!-- Form thêm/sửa nhà cung ứng -->
+        <Label Content="Mã nhà cung ưng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,136,0,0"/>
+        <TextBox Name="SupplierIDTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="132,140,0,0"/>
+        <Label Content="Tên nhà cung ưng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,166,0,0"/>
+        <TextBox Name="SupplierNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="132,174,0,0"/>
+
+
+        <Label Content="Thông tin liên hệ:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,197,0,0" RenderTransformOrigin="0.62,-0.64"/>
+        <TextBox Name="ContactInfoTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="132,201,0,0"/>
+
+
+        <!-- Nút Thêm mới, Cập nhật, Xóa -->
+        <Button Name="AddSupplierButton" Content="Thêm Nhà Cung Ứng" Margin="354,78,0,0" Click="AddSupplierButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28"/>
+        <Button Name="UpdateSupplierButton" Content="Cập Nhật" Margin="354,141,0,0" Click="UpdateSupplierButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="116" Height="35"/>
+        <Button Name="DeleteSupplierButton" Content="Xóa" Height="33" Margin="354,186,0,0" Click="DeleteSupplierButton_Click" RenderTransformOrigin="0.599,0.986" HorizontalAlignment="Left" VerticalAlignment="Top" Width="116"/>
+
+
+
+        <!-- DataGrid để hiển thị danh sách nhà cung ứng -->
+        <DataGrid Name="SuppliersDataGrid" VerticalAlignment="Top" Height="200" Margin="20,256,0,0" AutoGenerateColumns="True" />
+
+    </Grid>
+</Page>

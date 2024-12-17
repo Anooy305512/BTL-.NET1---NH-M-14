@@ -36,7 +36,7 @@ namespace Quản_lý_tạp_hóa
             {
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
-                    string query = "SELECT od.OrderDetailID, p.ProductName, od.Quantity, od.UnitPrice, od.DiscountAmount, od.FinalPrice " +
+                    string query = "SELECT od.OrderDetailID, p.ProductName, od.Quantity, od.UnitPrice,  od.FinalPrice " +
                                    "FROM OrderDetails od " +
                                    "JOIN Products p ON od.ProductID = p.ProductID " +
                                    "WHERE od.OrderID = @OrderID";
@@ -47,7 +47,6 @@ namespace Quản_lý_tạp_hóa
                     DataTable dt = new DataTable();
                     adapter.Fill(dt);
 
-                    // Gán DataTable cho DataGrid để hiển thị
                     OrderDetailsDataGrid.ItemsSource = dt.DefaultView;
                 }
             }

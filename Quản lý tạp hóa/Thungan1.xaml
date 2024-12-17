@@ -1,0 +1,50 @@
+﻿<Page x:Class="Quản_lý_tạp_hóa.Thungan1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Quản_lý_tạp_hóa"
+      mc:Ignorable="d" 
+
+      Title="Thungan1">
+
+    <Grid>
+        <local:MenuControl1 VerticalAlignment="Top" Margin="0,20,0,0"/>
+        <!-- Tìm kiếm sản phẩm theo mã vạch -->
+        <TextBox x:Name="BarcodeTextBox" Width="225" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="108,85,0,0" />
+        <Button Content="Tìm kiếm" Width="100" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="361,85,0,0" Click="SearchProduct_Click" RenderTransformOrigin="0.03,0.435" />
+        <Button Content="Xóa sản phẩm" Width="100" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="233,383,0,0" Click="RemoveItemFromCart_Click" />
+        <!-- Hiển thị thông tin sản phẩm -->
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Left" Margin="118,136,0,0">
+            <TextBlock Text="ID sản phẩm:" />
+            <TextBlock x:Name="ProductIDTextBlock" FontWeight="Bold" />
+            <TextBlock Text="Tên sản phẩm:" />
+            <TextBlock x:Name="ProductNameTextBlock" FontWeight="Bold" />
+
+            <TextBlock Text="Giá sản phẩm:" />
+            <TextBlock x:Name="ProductPriceTextBlock" FontWeight="Bold" />
+        </StackPanel>
+
+        <!-- Nhập số lượng -->
+        <Label Content="Số lượng:" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="108,256,0,0"/>
+        <TextBox x:Name="QuantityTextBox" Width="98" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="174,256,0,0" />
+
+        <!-- Thêm vào giỏ hàng -->
+        <Button Content="Thêm vào giỏ hàng" Width="150" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="183,331,0,0" Click="AddToCart_Click" />
+
+        <!-- Hiển thị giỏ hàng -->
+        <DataGrid x:Name="CartDataGrid" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="358,136,0,0" Width="555" Height="429"/>
+
+        <TextBlock Text="Tổng thành tiền:" Margin="368,578,0,0" Width="60" Height="26" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBlock x:Name="TotalPriceTextBlock" FontWeight="Bold" Width="60" Height="26" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="455,578,0,0" RenderTransformOrigin="1.494,0.41" />
+
+        <!-- TextBox nhập mã hóa đơn -->
+
+        <!-- Nút thanh toán -->
+
+
+        <!-- Nút thanh toán -->
+        <Button Content="Thanh toán" Width="100" Height="30" Margin="813,578,0,0" Click="Checkout_Click" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.707,0.133" />
+
+    </Grid>
+</Page>

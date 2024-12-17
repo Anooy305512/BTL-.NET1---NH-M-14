@@ -82,27 +82,41 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Qlnhacungung.xaml.cs">
-      <DependentUpon>Qlnhacungung.xaml</DependentUpon>
+    <Compile Include="Doanhthu1.xaml.cs">
+      <DependentUpon>Doanhthu1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Qlsanpham.xaml.cs">
-      <DependentUpon>Qlsanpham.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Qlhoadon.xaml.cs">
-      <DependentUpon>Qlhoadon.xaml</DependentUpon>
+    <Compile Include="Home.xaml.cs">
+      <DependentUpon>Home.xaml</DependentUpon>
     </Compile>
     <Compile Include="OrderDetail.xaml.cs">
       <DependentUpon>OrderDetail.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Thungan.xaml.cs">
-      <DependentUpon>Thungan.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Doanhthu.xaml.cs">
-      <DependentUpon>Doanhthu.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Log.xaml.cs">
       <DependentUpon>Log.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Qlhoadon1.xaml.cs">
+      <DependentUpon>Qlhoadon1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Qlnhacungung1.xaml.cs">
+      <DependentUpon>Qlnhacungung1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Qlsanpham1.xaml.cs">
+      <DependentUpon>Qlsanpham1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MenuControl1.xaml.cs">
+      <DependentUpon>MenuControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Thungan1.xaml.cs">
+      <DependentUpon>Thungan1.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Doanhthu1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Home.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -115,31 +129,31 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Qlnhacungung.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Qlsanpham.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Qlhoadon.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="OrderDetail.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Thungan.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Doanhthu.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="Log.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Qlhoadon1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Qlnhacungung1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Qlsanpham1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MenuControl1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Thungan1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

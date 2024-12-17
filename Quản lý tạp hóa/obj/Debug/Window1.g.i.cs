@@ -40,6 +40,78 @@ namespace Quản_lý_tạp_hóa {
     /// </summary>
     public partial class Window1 : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 10 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox SearchSupplierTextBox;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 11 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button SearchSupplierButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 15 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox SupplierIDTextBox;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 17 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox SupplierNameTextBox;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 21 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox ContactInfoTextBox;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 25 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button AddSupplierButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 26 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button UpdateSupplierButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 27 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button DeleteSupplierButton;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 32 "..\..\Window1.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.DataGrid SuppliersDataGrid;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +140,60 @@ namespace Quản_lý_tạp_hóa {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.SearchSupplierTextBox = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 2:
+            this.SearchSupplierButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 11 "..\..\Window1.xaml"
+            this.SearchSupplierButton.Click += new System.Windows.RoutedEventHandler(this.SearchSupplierButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 3:
+            this.SupplierIDTextBox = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 4:
+            this.SupplierNameTextBox = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 5:
+            this.ContactInfoTextBox = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 6:
+            this.AddSupplierButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 25 "..\..\Window1.xaml"
+            this.AddSupplierButton.Click += new System.Windows.RoutedEventHandler(this.AddSupplierButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 7:
+            this.UpdateSupplierButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 26 "..\..\Window1.xaml"
+            this.UpdateSupplierButton.Click += new System.Windows.RoutedEventHandler(this.UpdateSupplierButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 8:
+            this.DeleteSupplierButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 27 "..\..\Window1.xaml"
+            this.DeleteSupplierButton.Click += new System.Windows.RoutedEventHandler(this.DeleteSupplierButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 9:
+            this.SuppliersDataGrid = ((System.Windows.Controls.DataGrid)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }

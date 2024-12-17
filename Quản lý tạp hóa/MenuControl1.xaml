@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Quản_lý_tạp_hóa.MenuControl1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Quản_lý_tạp_hóa"
+    Height="Auto" Width="Auto">
+    <Border Background="#ADD8E6" Padding="10">
+        <!-- Màu xanh nhạt (Light Blue) -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+            <!-- Cập nhật màu nền và xóa viền của Button -->
+            <Button Content="Home" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="HomeButton_Click"/>
+            <Button Content="Thu ngân" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="ThunganButton_Click"/>
+            <Button Content="QL Sản phẩm" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="QlsanphamButton_Click"/>
+            <Button Content="QL Nhà cung ứng" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="QlnhacungungButton_Click"/>
+            <Button Content="QL Hóa đơn" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="QlhoadonButton_Click"/>
+            <Button Content="Doanh thu" Width="150" Margin="5" 
+                    Background="#ADD8E6" BorderBrush="Transparent" BorderThickness="0" 
+                    Click="DoanhthuButton_Click"/>
+        </StackPanel>
+    </Border>
+</UserControl>
+

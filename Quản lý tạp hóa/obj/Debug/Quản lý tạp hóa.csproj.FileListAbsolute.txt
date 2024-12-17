@@ -35,17 +35,23 @@ D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qu_n l_ .1576B65E.Up2Da
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Quản lý tạp hóa.exe
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Quản lý tạp hóa.pdb
 D:\Quản lý tạp hóa\Quản lý tạp hóa\bin\Debug\Quản lý tạp hóa.pdb
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlnhacungung.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlnhacungung.g.cs
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlsanpham.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlsanpham.g.cs
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlhoadon.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlhoadon.g.cs
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\OrderDetail.g.cs
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\OrderDetail.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Thungan.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Thungan.g.cs
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu.baml
-D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu.g.cs
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Log.baml
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Log.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Quản lý tạp hóa_MarkupCompile.lref
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\MenuControl1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\MenuControl1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Home.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Thungan1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Home.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Thungan1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlhoadon1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlnhacungung1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlsanpham1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlhoadon1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlnhacungung1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlsanpham1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu1.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu1.baml

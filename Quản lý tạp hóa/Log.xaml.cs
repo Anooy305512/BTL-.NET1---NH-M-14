@@ -31,12 +31,10 @@ namespace Quản_lý_tạp_hóa
             string username = UsernameTextBox.Text;
             string password = PasswordBox.Password;
 
-            // Kiểm tra giá trị nhập vào
-            MessageBox.Show($"Tên người dùng: {username} | Mật khẩu: {password}");
-
+            
             if (IsValidLogin(username, password))
             {
-                MessageBox.Show("Đăng nhập thành công!");
+                //MessageBox.Show("Đăng nhập thành công!");
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
                 this.Close(); // Đóng cửa sổ đăng nhập
