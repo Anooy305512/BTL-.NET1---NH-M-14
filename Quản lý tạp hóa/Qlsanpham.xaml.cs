@@ -135,68 +135,20 @@ namespace Quản_lý_tạp_hóa
         {
             if (ProductsDataGrid.SelectedItem == null)
             {
-                MessageBox.Show("Vui lòng chọn sản phẩm để cập nhật.");
-                return;
-            }
-
-            if (ProductsDataGrid.SelectedItems.Count > 1)
-            {
-                MessageBox.Show("Vui lòng chỉ chọn một sản phẩm để cập nhật.");
+                MessageBox.Show("Vui lòng chọn sản phẩm để sửa.");
                 return;
             }
 
             var selectedRow = (DataRowView)ProductsDataGrid.SelectedItem;
-            int productId = Convert.ToInt32(selectedRow["ProductID"]);
 
-            string productName = ProductNameTextBox.Text;
-            decimal unitPrice = Convert.ToDecimal(UnitPriceTextBox.Text);
-            int quantityInStock = Convert.ToInt32(QuantityInStockTextBox.Text);
-            string mavach = MavachTextBox.Text;
-            string SupplierID = SupplierIDTextBox.Text;
-    
-            if (string.IsNullOrEmpty(productName) || unitPrice <= 0 || quantityInStock < 0 || string.IsNullOrEmpty(mavach) || string.IsNullOrEmpty(SupplierID))
+            // Mở cửa sổ chỉnh sửa thông tin sản phẩm
+            Sua editProductWindow = new Sua(selectedRow);
+
+            // Hiển thị cửa sổ và kiểm tra kết quả
+            if (editProductWindow.ShowDialog() == true)
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin hợp lệ.");
-                return;
-            }
-
-            try
-            {
-                using (SqlConnection conn = new SqlConnection(connectionString))
-                {
-                    
-                    string query = "UPDATE Products SET ProductName = @ProductName, UnitPrice = @UnitPrice, QuantityInStock = @QuantityInStock, Mavach = @Mavach, SupplierID=@SupplierID WHERE ProductID = @ProductID";
-
-                    SqlCommand cmd = new SqlCommand(query, conn);
-                    cmd.Parameters.AddWithValue("@ProductID", productId);
-                    cmd.Parameters.AddWithValue("@ProductName", productName);
-                    cmd.Parameters.AddWithValue("@UnitPrice", unitPrice);
-                    cmd.Parameters.AddWithValue("@QuantityInStock", quantityInStock);
-                    cmd.Parameters.AddWithValue("@Mavach", mavach);
-                    cmd.Parameters.AddWithValue("@SupplierID", SupplierID);
-
-                    conn.Open();
-                    int rowsAffected = cmd.ExecuteNonQuery();
-
-                    if (rowsAffected > 0)
-                    {
-                        MessageBox.Show("Sản phẩm đã được cập nhật!");
-
-                        SearchTextBox.Clear();
-
-                        ClearForm();
-
-                        LoadProducts();  
-                    }
-                    else
-                    {
-                        MessageBox.Show("Không thể cập nhật sản phẩm.");
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Lỗi: {ex.Message}");
+                // Sau khi cập nhật thành công, tải lại danh sách sản phẩm
+                LoadProducts();
             }
         }
 

@@ -34,10 +34,9 @@ namespace Quản_lý_tạp_hóa
             
             if (IsValidLogin(username, password))
             {
-                //MessageBox.Show("Đăng nhập thành công!");
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
-                this.Close(); // Đóng cửa sổ đăng nhập
+                this.Close();
             }
             else
             {
@@ -59,14 +58,13 @@ namespace Quản_lý_tạp_hóa
                     conn.Open();
                     int userCount = (int)cmd.ExecuteScalar();
 
-                    // Kiểm tra số lượng người dùng khớp
-                    return userCount > 0; // Trả về true nếu tìm thấy người dùng, false nếu không
+                    return userCount > 0; 
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show($"Lỗi khi kiểm tra đăng nhập: {ex.Message}");
-                return false; // Trả về false nếu có lỗi xảy ra
+                return false;
             }
         }
 

@@ -27,6 +27,14 @@ namespace Quản_lý_tạp_hóa
             InitializeComponent();
         }
         private List<CartItem> shoppingCart = new List<CartItem>();
+        public class CartItem
+        {
+            public int ProductID { get; set; }
+            public string ProductName { get; set; }
+            public decimal UnitPrice { get; set; }
+            public int Quantity { get; set; }
+            public decimal TotalPrice => UnitPrice * Quantity;  // Tính tổng tiền cho sản phẩm
+        }
 
 
 
@@ -56,22 +64,20 @@ namespace Quản_lý_tạp_hóa
         }
 
         // Thêm sản phẩm vào giỏ hàng
-        // Thêm sản phẩm vào giỏ hàng với kiểm tra tồn kho
+        
         private void AddToCart_Click(object sender, RoutedEventArgs e)
         {
             try
             {
-                // Chuyển đổi ProductIDTextBlock.Text thành int để lưu vào giỏ hàng
-                int productID = int.Parse(ProductIDTextBlock.Text);  // Chuyển đổi từ string sang int
+               
+                int productID = int.Parse(ProductIDTextBlock.Text); 
                 string productName = ProductNameTextBlock.Text;
                 string priceText = ProductPriceTextBlock.Text.Replace(",", ".");
                 decimal unitPrice = Convert.ToDecimal(priceText);
                 int quantity = int.Parse(QuantityTextBox.Text);
 
-                // Lấy số lượng tồn kho của sản phẩm từ cơ sở dữ liệu
                 int stockQuantity = GetProductStockByID(productID);
 
-                // Kiểm tra nếu số lượng nhập vào vượt quá số lượng tồn kho
                 if (quantity > stockQuantity)
                 {
                     MessageBox.Show($"Số lượng nhập vào vượt quá số lượng tồn kho. Tồn kho hiện tại: {stockQuantity}.");
@@ -80,16 +86,16 @@ namespace Quản_lý_tạp_hóa
 
                 decimal totalPrice = unitPrice * quantity;
 
-                // Thêm sản phẩm vào giỏ hàng
+                
                 shoppingCart.Add(new CartItem
                 {
-                    ProductID = productID,  // Lưu ProductID (kiểu int)
+                    ProductID = productID, 
                     ProductName = productName,
                     UnitPrice = unitPrice,
                     Quantity = quantity,
                 });
 
-                // Cập nhật giao diện giỏ hàng
+                
                 CartDataGrid.ItemsSource = null;
                 CartDataGrid.ItemsSource = shoppingCart;
                 UpdateTotalPrice();
@@ -118,7 +124,7 @@ namespace Quản_lý_tạp_hóa
                 CartDataGrid.ItemsSource = null;
                 CartDataGrid.ItemsSource = shoppingCart;
 
-                // Update total price
+                
                 UpdateTotalPrice();
             }
             else
@@ -132,7 +138,7 @@ namespace Quản_lý_tạp_hóa
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
-                // Câu truy vấn sử dụng ProductID để lấy thông tin tồn kho
+               
                 string query = "SELECT QuantityInStock FROM Products WHERE ProductID = @ProductID";
                 SqlCommand cmd = new SqlCommand(query, conn);
 
@@ -152,33 +158,31 @@ namespace Quản_lý_tạp_hóa
         {
             
 
-            // Kiểm tra giỏ hàng có sản phẩm
+            
             if (shoppingCart.Count == 0)
             {
                 MessageBox.Show("Giỏ hàng trống.");
                 return;
             }
 
-            try
-            {
+            
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     conn.Open();
 
-                    // Bắt đầu một transaction để đảm bảo dữ liệu được lưu đúng
                     using (SqlTransaction transaction = conn.BeginTransaction())
                     {
-                        // 1. Lưu thông tin đơn hàng vào bảng Orders
+                       
                         string orderQuery = "INSERT INTO Orders (OrderDate, TotalAmount, Status) OUTPUT INSERTED.OrderID VALUES (@OrderDate, @TotalAmount, @Status)";
                         SqlCommand orderCmd = new SqlCommand(orderQuery, conn, transaction);
                         orderCmd.Parameters.AddWithValue("@OrderDate", DateTime.Now);
                         orderCmd.Parameters.AddWithValue("@TotalAmount", shoppingCart.Sum(item => item.TotalPrice));
                         orderCmd.Parameters.AddWithValue("@Status", "Completed");
 
-                        // Lấy OrderID của đơn hàng vừa tạo
+                        
                         int orderID = (int)orderCmd.ExecuteScalar();
 
-                        // 2. Lưu thông tin từng sản phẩm trong giỏ hàng vào bảng OrderDetails
+                       
                         foreach (var item in shoppingCart)
                         {
                             string detailQuery = "INSERT INTO OrderDetails (OrderID, ProductID, Quantity, UnitPrice, FinalPrice) VALUES (@OrderID, @ProductID, @Quantity, @UnitPrice, @FinalPrice)";
@@ -194,13 +198,13 @@ namespace Quản_lý_tạp_hóa
                             // 3. Cập nhật số lượng tồn kho trong bảng Products
                             string updateStockQuery = "UPDATE Products SET QuantityInStock = QuantityInStock - @Quantity WHERE ProductID = @ProductID";
                             SqlCommand updateStockCmd = new SqlCommand(updateStockQuery, conn, transaction);
-                            updateStockCmd.Parameters.AddWithValue("@Quantity", item.Quantity);  // Trừ số lượng mua
-                            updateStockCmd.Parameters.AddWithValue("@ProductID", item.ProductID);  // Cập nhật theo ProductID
+                            updateStockCmd.Parameters.AddWithValue("@Quantity", item.Quantity);  
+                            updateStockCmd.Parameters.AddWithValue("@ProductID", item.ProductID); 
 
                             updateStockCmd.ExecuteNonQuery();
                         }
 
-                        // Commit transaction sau khi lưu thành công
+                       
                         transaction.Commit();
 
                         MessageBox.Show("Thanh toán thành công! Số lượng tồn kho đã được cập nhật.");
@@ -217,17 +221,7 @@ namespace Quản_lý_tạp_hóa
 
                     }
                 }
-            }
-            catch (SqlException sqlEx)
-            {
-                // In lỗi SQL
-                MessageBox.Show($"Lỗi SQL: {sqlEx.Message}\n\nChi tiết lỗi: {sqlEx.StackTrace}");
-            }
-            catch (Exception ex)
-            {
-                // In lỗi chung
-                MessageBox.Show($"Lỗi: {ex.Message}\n\nChi tiết lỗi: {ex.StackTrace}");
-            }
+           
         }
 
         private void ClearTextBlock_Click()
@@ -279,13 +273,6 @@ namespace Quản_lý_tạp_hóa
 
 
         // Lớp ShoppingCartItem để chứa thông tin sản phẩm trong giỏ hàng
-        public class CartItem
-        {
-            public int ProductID { get; set; }
-            public string ProductName { get; set; }
-            public decimal UnitPrice { get; set; }
-            public int Quantity { get; set; }
-            public decimal TotalPrice => UnitPrice * Quantity;  // Tính tổng tiền cho sản phẩm
-        }
+        
     }
 }

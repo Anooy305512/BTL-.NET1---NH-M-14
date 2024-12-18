@@ -55,3 +55,9 @@ D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlnhacungung1.baml
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Qlsanpham1.baml
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu1.g.cs
 D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Doanhthu1.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Sua.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Sua.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Suancu.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Updatencu.g.cs
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Suancu.baml
+D:\Quản lý tạp hóa\Quản lý tạp hóa\obj\Debug\Updatencu.baml

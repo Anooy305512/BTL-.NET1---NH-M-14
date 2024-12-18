@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|d:\\qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\updatencu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\updatencu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|d:\\qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\updatencu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\updatencu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-1396-open.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -54,80 +102,60 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-11380-open.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7ED45EE1-A508-4E94-95EB-273CE40117A2}|Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a.csproj|solutionrelative:Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,11 +165,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Updatencu.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:57:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Updatencu.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Updatencu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T08:56:21.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Qlsanpham.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAgwJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:37:12.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Suancu.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:35:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suancu.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Suancu.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T08:33:50.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "nbserver-1396-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-1396-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-1396-open.html",
@@ -151,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "nbserver-17376-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-17376-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-17376-open.html",
@@ -161,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "nbserver-10540-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-10540-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-10540-open.html",
@@ -171,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "nbserver-18376-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18376-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18376-open.html",
@@ -181,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "nbserver-18280-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18280-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18280-open.html",
@@ -191,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "nbserver-18980-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18980-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-18980-open.html",
@@ -201,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "nbserver-21116-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-21116-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-21116-open.html",
@@ -211,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "nbserver-620-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-620-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-620-open.html",
@@ -221,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "nbserver-3892-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-3892-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-3892-open.html",
@@ -231,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "nbserver-8188-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-8188-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-8188-open.html",
@@ -241,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "nbserver-22968-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-22968-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-22968-open.html",
@@ -251,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "nbserver-2124-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-2124-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-2124-open.html",
@@ -261,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "nbserver-11380-open.html",
               "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-11380-open.html",
               "ToolTip": "C:\\Users\\ASUS\\AppData\\Roaming\\jupyter\\runtime\\nbserver-11380-open.html",
@@ -271,112 +362,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Qlnhacungung1.xaml",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-09T06:34:15.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Doanhthu1.xaml",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-10T16:21:08.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Doanhthu1.xaml.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAwwBcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Sua.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T16:22:19.589Z"
+              "WhenOpened": "2024-12-18T08:18:57.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
+              "Title": "Sua.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Sua.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T08:18:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Qlhoadon1.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:36:39.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Qlhoadon1.xaml",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-09T06:36:04.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Qlnhacungung1.xaml.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T06:34:56.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Qlsanpham1.xaml.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
-              "ViewState": "AgIAACQBAAAAAAAAAAAgwCUBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T06:32:40.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Qlsanpham1.xaml",
-              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
-              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-09T06:32:01.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Thungan1.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAiwNYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T01:42:39.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "Qlnhacungung1.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T06:34:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Doanhthu1.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T16:21:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doanhthu1.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Doanhthu1.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwE8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:22:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Qlhoadon1.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlhoadon1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T06:36:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qlnhacungung1.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlnhacungung1.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:34:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qlsanpham1.xaml.cs",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAxwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:32:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Qlsanpham1.xaml",
+              "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
+              "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qlsanpham1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T06:32:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Thungan1.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Thungan1.xaml",
@@ -388,30 +511,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Home.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T01:38:00.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "Home.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-06T01:37:48.139Z"
+              "WhenOpened": "2024-12-06T01:37:48.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 2,
               "Title": "MenuControl1.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs",
@@ -419,57 +543,60 @@
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAuwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:34:56.537Z"
+              "WhenOpened": "2024-12-05T12:34:56.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "MenuControl1.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MenuControl1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T12:33:00.792Z"
+              "WhenOpened": "2024-12-05T12:33:00.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Log.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T00:11:33.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "OrderDetail.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwBcAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T13:31:19.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T04:31:23.707Z"
+              "WhenOpened": "2024-12-01T04:31:23.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs",
@@ -477,44 +604,48 @@
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:31:21.873Z"
+              "WhenOpened": "2024-12-01T04:31:21.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T00:24:28.437Z"
+              "WhenOpened": "2024-12-02T00:24:28.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "Log.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Log.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T00:10:44.356Z"
+              "WhenOpened": "2024-12-02T00:10:44.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "OrderDetail.xaml",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml",
               "ToolTip": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\OrderDetail.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T13:25:59.069Z"
+              "WhenOpened": "2024-12-01T13:25:59.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD t\u1EA1p h\u00F3a\\App.config",

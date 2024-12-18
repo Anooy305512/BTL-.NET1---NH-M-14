@@ -106,8 +106,17 @@
     <Compile Include="MenuControl1.xaml.cs">
       <DependentUpon>MenuControl1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Sua.xaml.cs">
+      <DependentUpon>Sua.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Suancu.xaml.cs">
+      <DependentUpon>Suancu.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Thungan1.xaml.cs">
       <DependentUpon>Thungan1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Updatencu.xaml.cs">
+      <DependentUpon>Updatencu.xaml</DependentUpon>
     </Compile>
     <Page Include="Doanhthu1.xaml">
       <SubType>Designer</SubType>
@@ -153,7 +162,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Sua.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Suancu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Thungan1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Updatencu.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

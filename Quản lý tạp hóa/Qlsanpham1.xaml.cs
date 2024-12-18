@@ -17,9 +17,7 @@ using System.Windows.Shapes;
 
 namespace Quản_lý_tạp_hóa
 {
-    /// <summary>
-    /// Interaction logic for Qlsanpham1.xaml
-    /// </summary>
+    
     public partial class Qlsanpham1 : Page
     {
         private string connectionString = "Server=LAPTOP-GS9R6GVM\\SQLEXPRESS07;Database=Qltaphoan;User Id=sa;Password=123456;";
@@ -27,10 +25,10 @@ namespace Quản_lý_tạp_hóa
         public Qlsanpham1()
         {
             InitializeComponent();
-            LoadProducts();  // Gọi LoadProducts khi form được khởi tạo
+            LoadProducts();  
         }
 
-        // Phương thức để tải danh sách sản phẩm từ cơ sở dữ liệu và hiển thị trong DataGrid
+        // tải danh sách sản phẩm từ cơ sở dữ liệu và hiển thị trong DataGrid
         private void LoadProducts(string searchQuery = "")
         {
             try
@@ -39,7 +37,7 @@ namespace Quản_lý_tạp_hóa
                 {
                     string query = "SELECT ProductID, ProductName, UnitPrice, QuantityInStock, Mavach, SupplierID FROM Products";
 
-                    // Kiểm tra nếu có từ khóa tìm kiếm thì theo Ma vah
+                    
                     if (!string.IsNullOrEmpty(searchQuery))
                     {
                         query += " WHERE Mavach COLLATE Latin1_General_BIN LIKE @SearchQuery";
@@ -70,7 +68,7 @@ namespace Quản_lý_tạp_hóa
         private void SearchButton_Click(object sender, RoutedEventArgs e)
         {
             string searchQuery = SearchTextBox.Text;
-            LoadProducts(searchQuery);  // Tìm kiếm sản phẩm
+            LoadProducts(searchQuery);  
         }
 
 
@@ -106,7 +104,7 @@ namespace Quản_lý_tạp_hóa
                     if (rowsAffected > 0)
                     {
                         MessageBox.Show("Sản phẩm đã được thêm!");
-                        LoadProducts();  // Cập nhật lại danh sách sản phẩm sau khi thêm
+                        LoadProducts();  
                         ClearForm();
                     }
                     else
@@ -121,14 +119,13 @@ namespace Quản_lý_tạp_hóa
             }
         }
 
-        // Phương thức xử lý sự kiện cho nút UpdateButton
         private void ClearForm()
         {
-            // Xóa thông tin trong các TextBox
-            ProductNameTextBox.Clear();         // Xóa trường tên sản phẩm
-            UnitPriceTextBox.Clear();           // Xóa trường giá sản phẩm
-            QuantityInStockTextBox.Clear();     // Xóa trường số lượng sản phẩm trong kho
-            MavachTextBox.Clear();              // Xóa trường mã vạch sản phẩm
+            
+            ProductNameTextBox.Clear();         
+            UnitPriceTextBox.Clear();          
+            QuantityInStockTextBox.Clear();     
+            MavachTextBox.Clear();              
             SupplierIDTextBox.Clear();
         }
 
@@ -138,76 +135,25 @@ namespace Quản_lý_tạp_hóa
         {
             if (ProductsDataGrid.SelectedItem == null)
             {
-                MessageBox.Show("Vui lòng chọn sản phẩm để cập nhật.");
+                MessageBox.Show("Vui lòng chọn sản phẩm để sửa.");
                 return;
             }
-
-            if (ProductsDataGrid.SelectedItems.Count > 1)
-            {
-                MessageBox.Show("Vui lòng chỉ chọn một sản phẩm để cập nhật.");
-                return;
-            }
-
 
             var selectedRow = (DataRowView)ProductsDataGrid.SelectedItem;
-            int productId = Convert.ToInt32(selectedRow["ProductID"]);
 
-            string productName = ProductNameTextBox.Text;
-            decimal unitPrice = Convert.ToDecimal(UnitPriceTextBox.Text);
-            int quantityInStock = Convert.ToInt32(QuantityInStockTextBox.Text);
-            string mavach = MavachTextBox.Text;
-            string SupplierID = SupplierIDTextBox.Text;
+            Sua editProductWindow = new Sua(selectedRow);
 
-            if (string.IsNullOrEmpty(productName) || unitPrice <= 0 || quantityInStock < 0 || string.IsNullOrEmpty(mavach) || string.IsNullOrEmpty(SupplierID))
+            if (editProductWindow.ShowDialog() == true)
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin hợp lệ.");
-                return;
-            }
-
-            try
-            {
-                using (SqlConnection conn = new SqlConnection(connectionString))
-                {
-
-                    string query = "UPDATE Products SET ProductName = @ProductName, UnitPrice = @UnitPrice, QuantityInStock = @QuantityInStock, Mavach = @Mavach, SupplierID=@SupplierID WHERE ProductID = @ProductID";
-
-                    SqlCommand cmd = new SqlCommand(query, conn);
-                    cmd.Parameters.AddWithValue("@ProductID", productId);
-                    cmd.Parameters.AddWithValue("@ProductName", productName);
-                    cmd.Parameters.AddWithValue("@UnitPrice", unitPrice);
-                    cmd.Parameters.AddWithValue("@QuantityInStock", quantityInStock);
-                    cmd.Parameters.AddWithValue("@Mavach", mavach);
-                    cmd.Parameters.AddWithValue("@SupplierID", SupplierID);
-
-                    conn.Open();
-                    int rowsAffected = cmd.ExecuteNonQuery();
-
-                    if (rowsAffected > 0)
-                    {
-                        MessageBox.Show("Sản phẩm đã được cập nhật!");
-
-                        SearchTextBox.Clear();
-
-                        ClearForm();
-
-                        LoadProducts();
-                    }
-                    else
-                    {
-                        MessageBox.Show("Không thể cập nhật sản phẩm.");
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Lỗi: {ex.Message}");
+                
+                LoadProducts();
             }
         }
 
 
         private void ProductsDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            // Kiểm tra nếu người dùng chọn một sản phẩm
+            
             if (ProductsDataGrid.SelectedItem != null && ProductsDataGrid.SelectedItems.Count == 1)
             {
                 var selectedRow = (DataRowView)ProductsDataGrid.SelectedItem;
@@ -219,7 +165,7 @@ namespace Quản_lý_tạp_hóa
             }
             else
             {
-                // Nếu không chọn hoặc chọn nhiều sản phẩm, xóa thông tin trong TextBox
+                
                 ProductNameTextBox.Clear();
                 UnitPriceTextBox.Clear();
                 QuantityInStockTextBox.Clear();
@@ -300,7 +246,7 @@ namespace Quản_lý_tạp_hóa
                     DataTable dataTable = new DataTable();
                     dataAdapter.Fill(dataTable);
 
-                    // Hiển thị kết quả vào DataGrid
+                   
                     ProductsDataGrid.ItemsSource = dataTable.DefaultView;
 
                     if (dataTable.Rows.Count == 0)

@@ -16,9 +16,6 @@ using System.Windows.Shapes;
 
 namespace Quản_lý_tạp_hóa
 {
-    /// <summary>
-    /// Interaction logic for Home.xaml
-    /// </summary>
     public partial class Home : Page
     {
         private string connectionString = "Server=LAPTOP-GS9R6GVM\\SQLEXPRESS07;Database=Qltaphoan;User Id=sa;Password=123456;";
@@ -32,7 +29,7 @@ namespace Quản_lý_tạp_hóa
         
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            LoadDailyRevenue();  // Gọi phương thức để tải doanh thu hôm nay
+            LoadDailyRevenue();  
             LoadTotalOrdersCount();
             LoadBestSellingProduct();
         }
@@ -45,7 +42,6 @@ namespace Quản_lý_tạp_hóa
                 {
                     conn.Open();
 
-                    // Truy vấn tổng doanh thu trong ngày
                     string query = @"
                 SELECT SUM(od.FinalPrice) AS TotalRevenue
                 FROM OrderDetails od
@@ -54,13 +50,10 @@ namespace Quản_lý_tạp_hóa
 
                     SqlCommand cmd = new SqlCommand(query, conn);
 
-                    // Thực thi truy vấn và lấy kết quả
                     object result = cmd.ExecuteScalar();
 
-                    // Kiểm tra nếu không có dữ liệu thì doanh thu là 0
                     decimal totalRevenue = result != DBNull.Value ? Convert.ToDecimal(result) : 0;
 
-                    // Hiển thị tổng doanh thu vào TextBlock
                     TotalRevenueTextBlock.Text = $"Doanh thu: {totalRevenue:C}";
                 }
             }
@@ -75,7 +68,7 @@ namespace Quản_lý_tạp_hóa
             {
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
-                    conn.Open();  // Mở kết nối
+                    conn.Open();  
 
                     string query = @"
                 SELECT COUNT(DISTINCT o.OrderID) AS TotalOrders
@@ -88,7 +81,6 @@ namespace Quản_lý_tạp_hóa
                     int totalOrders = result != DBNull.Value ? Convert.ToInt32(result) : 0;
 
 
-                    // Cập nhật TextBlock với kết quả
                     TotalOrdersTextBlock.Text = $"Đơn hàng: {totalOrders}";
                 }
             }
@@ -103,7 +95,7 @@ namespace Quản_lý_tạp_hóa
             {
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
-                    conn.Open();  // Mở kết nối
+                    conn.Open();  
 
                     string query = @"
                 SELECT TOP 1 p.ProductName, SUM(od.Quantity) AS TotalQuantity
@@ -124,7 +116,6 @@ namespace Quản_lý_tạp_hóa
 
 
 
-                        // Cập nhật TextBlock với kết quả
                         BestSellingProductTextBlock.Text = $"Bán chạy: {productName} - Số lượng bán: {totalQuantity}";
                     }
                     
